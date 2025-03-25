@@ -1,6 +1,6 @@
 <?php
 
-namespace Elsed\CurrencyToggle;
+namespace Elsed115\CurrencyToggle;
 
 use Laravel\Nova\Fields\Field;
 

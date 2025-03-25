@@ -13,13 +13,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Elsed\\CurrencyToggle\\": "src/"
+            "Elsed115\\CurrencyToggle\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Elsed\\CurrencyToggle\\FieldServiceProvider"
+                "Elsed115\\CurrencyToggle\\FieldServiceProvider"
             ]
         }
     },

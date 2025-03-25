@@ -1,6 +1,6 @@
 <?php
 
-namespace Elsed\CurrencyToggle;
+namespace Elsed115\CurrencyToggle;
 
 use Illuminate\Support\ServiceProvider;
 use Laravel\Nova\Events\ServingNova;
