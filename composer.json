@@ -1,13 +1,15 @@
 {
-    "name": "elsed/currency-toggle",
-    "description": "A Laravel Nova field.",
+    "name": "elsed115/currency-toggle",
+    "description": "A Laravel Nova Currency Field with an activate/deactivate toggle",
     "keywords": [
         "laravel",
         "nova"
     ],
+    "type": "nova-field",
     "license": "MIT",
     "require": {
-        "php": "^7.3|^8.0"
+        "php": "^7.3|^8.0",
+        "laravel/nova": "*"
     },
     "autoload": {
         "psr-4": {
@@ -27,3 +29,5 @@
     "minimum-stability": "dev",
     "prefer-stable": true
 }
+
+
